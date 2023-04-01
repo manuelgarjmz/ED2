@@ -1,0 +1,48 @@
+﻿  PIA_AVANCE1.cpp
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1343,25): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1355,25): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1359,25): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1376,25): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1380,25): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1416,31): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1475,27): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1490,28): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1559,28): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1624,9): warning C4060: la instrucción switch no contiene etiquetas 'case' ni 'default'
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1784,28): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1886,31): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(1918,27): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(2008,35): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(2087,27): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(2101,28): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(2532,23): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(2824,53): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)" que se está compilando
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(62): message : Vea la referencia a la creación de una instancia de la función plantilla "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" que se está compilando
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\PIA_AVANCE1\PIA_AVANCE1.cpp(62): message : Vea la referencia a la creación de una instancia de la función plantilla "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" que se está compilando
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  PIA_AVANCE1.vcxproj -> C:\Users\USER\source\repos\_ED_\PIA_AVANCE1\x64\Debug\PIA_AVANCE1.exe

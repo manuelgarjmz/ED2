@@ -1,0 +1,2 @@
+Ortega,Aguilar,Fransciso,OEAF771012HMCRGR09,28/2/2023,1234,Calle,Col,Ciu,NL,Soltero(a),1265756869,Masculino,B,BAJP,C:\Users\USER\source\repos\Avance2_EstructuraDatos\PIA_AVANCE1\PIA_AVANCE1\fotos\perro.bmp,
+JUAREZ,H,K,FHGJGJGTJ,2/3/2023,7888,C,C,C,U,Otros,124664675,Femenino,GRUPO,ALTO,C:\Users\USER\source\repos\Avance2_EstructuraDatos\PIA_AVANCE1\PIA_AVANCE1\fotos\gato.bmp,
